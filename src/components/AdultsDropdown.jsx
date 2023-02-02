@@ -23,7 +23,7 @@ const AdultsDropdown = () => {
         <BsChevronDown className="text-base text-accent-hover" />
       </Menu.Button>
       {/* items */}
-      <Menu.Items as="ul" className="bg-white abbsolute w-full flex flex-col z-40">
+      <Menu.Items as="ul" className="bg-white abbsolute w-full flex flex-col z-40 relative">
         {lis.map((li, index) => {
           return (
           <Menu.Item
