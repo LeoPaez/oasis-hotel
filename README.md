@@ -1,19 +1,11 @@
-# HighTech
+# Hotel Oasis
 
-### Tienda Online para comprar todo tipo de componentes para armar tu computadora para jugar o trabajar. Desarrollado en React y estilado con Styled Components.
-#### Librerías y herramientas usadas:
+#### Página Web de Hotel Oasis con múltiples habitaciones que se pueden filtrar según el número de personas y niños dependiendo la cantidad de personas y el precio de la habitación.
+Librerias y herramientas usadas:
 - React
 - React Router
-- Styled Components
-- Formik
+- React Datepicker
+- Spinners React
+- Tailwind CSS
+- Headless UI
 - Swiper
-- SweetAlert2
-
-#### Instalacion:
-- Clonar proyecto
-- Instala las dependencias: ```npm install```
-- Corre el ambiente local: ```npm run dev```
-
-<p align="center">
-  <img src="https://i.ibb.co/CVzg2qf/Captura.png" alt="Foto del proyecto">
-</p>
