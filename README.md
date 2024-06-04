@@ -15,11 +15,6 @@ Librerias y herramientas usadas:
 - Instala las dependencias: ```npm install```
 - Corre el ambiente local: ```npm run dev```
 
-#### Instalacion:
-- Clonar proyecto
-- Instala las dependencias: ```npm install```
-- Corre el ambiente local: ```npm run dev```
-
 [Link del proyecto en producción](https://hotel-oasis-gilt.vercel.app/)
 
 <p align="center">
