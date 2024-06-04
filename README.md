@@ -9,3 +9,19 @@ Librerias y herramientas usadas:
 - Tailwind CSS
 - Headless UI
 - Swiper
+
+#### Instalacion:
+- Clonar proyecto
+- Instala las dependencias: ```npm install```
+- Corre el ambiente local: ```npm run dev```
+
+#### Instalacion:
+- Clonar proyecto
+- Instala las dependencias: ```npm install```
+- Corre el ambiente local: ```npm run dev```
+
+[Link del proyecto en producción](https://hotel-oasis-gilt.vercel.app/)
+
+<p align="center">
+  <img src="https://i.ibb.co/ZJSzDj8/Oasis-Hotel-Spa.png" alt="Foto del proyecto">
+</p>
